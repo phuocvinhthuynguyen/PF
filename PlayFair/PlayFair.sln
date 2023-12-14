@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayFair", "PlayFair\PlayFair.csproj", "{C39FA45C-AD7F-4B85-A7B4-5F45B55040D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhom3_PlayFair", "..\PLAYFAIR-main\MaHoa\Nhom3_PlayFair.csproj", "{766B52A1-2571-4CBF-B02D-F1854A789E58}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Nhom3", "..\PLAYFAIR-main\Setup\Nhom3\Nhom3.vdproj", "{C4FA3D4B-82C1-49FC-9379-227D4895335B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C39FA45C-AD7F-4B85-A7B4-5F45B55040D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39FA45C-AD7F-4B85-A7B4-5F45B55040D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39FA45C-AD7F-4B85-A7B4-5F45B55040D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39FA45C-AD7F-4B85-A7B4-5F45B55040D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766B52A1-2571-4CBF-B02D-F1854A789E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766B52A1-2571-4CBF-B02D-F1854A789E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766B52A1-2571-4CBF-B02D-F1854A789E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766B52A1-2571-4CBF-B02D-F1854A789E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FA3D4B-82C1-49FC-9379-227D4895335B}.Debug|Any CPU.ActiveCfg = Debug
+		{C4FA3D4B-82C1-49FC-9379-227D4895335B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DCCD99-4083-413E-BC4A-5772187F49FF}
+	EndGlobalSection
+EndGlobal
